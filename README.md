@@ -14,7 +14,7 @@ VSort is a fast and lightweight Python CLI tool that automatically sorts your fi
 Clone the repository and install using pip:
 
 ```bash
-git clone https://github.com/your-username/vsort.git
+git clone https://github.com/VxidDev/vsort.git
 cd vsort
 pip install .
 ```
